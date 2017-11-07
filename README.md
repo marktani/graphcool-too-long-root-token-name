@@ -1,0 +1,1 @@
+# graphcool-too-long-root-token-name
